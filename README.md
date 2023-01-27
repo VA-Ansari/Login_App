@@ -15,8 +15,6 @@ This App contains two option 1. Login & 2. Register
 ### Login page
     -> First you have to enter your Name or Email Address     
     -> And then enter password
-Username- Arshad
-Passwor- 1432 
 
 ![login](https://user-images.githubusercontent.com/99677717/215102162-da882de5-93d2-464e-aa0e-7b2c8d26ef92.png) 
 
